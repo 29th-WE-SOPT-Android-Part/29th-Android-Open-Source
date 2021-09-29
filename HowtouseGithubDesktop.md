@@ -24,13 +24,13 @@
 
   **File :arrow_forward: Clone Repository... :arrow_forward: 밑 화면에서 원하는 Repository를 클릭하고 Clone버튼을 누른다.**
 
-  ![img_clone_repository](/Image/img_clone_repository.png)
+  ![img_clone_repository](https://github.com/8-seconds/WIKI_FOR_8_SECONDS/raw/main/Image/img_clone_repository.png)
 
 - **깃허브 홈페이지에서 불러오는 법**
 
   Clone을 원하는 Repository에 들어가서 오른 쪽 상단에 뜨는 초록색 Code버튼을 누른 후, **Open With GitHub Desktop**을 누른다.
 
-  ![img_clone_repository_2](/Image/img_clone_repository_2.png)
+  ![img_clone_repository_2](https://github.com/8-seconds/WIKI_FOR_8_SECONDS/raw/main/Image/img_clone_repository_2.png)
 
 <br>
 
@@ -38,7 +38,7 @@
 
 git에서는 Local Repository(현재 자신의 데스크톱 레포지토리)에 새로운 파일이 생기거나 기존의 파일이 수정, 삭제 등이 될 경우 Commit을 할 수 있게 됩니다! 이 때 `GUI`툴을 쓰면 간단하게 Commit이 가능합니다.
 
-![img_commit_way](/Image/img_commit_way.png)
+![img_commit_way](https://github.com/8-seconds/WIKI_FOR_8_SECONDS/raw/main/Image/img_commit_way.png)
 
 <br>
 
@@ -46,15 +46,11 @@ git에서는 Local Repository(현재 자신의 데스크톱 레포지토리)에 
 
 <br>
 
-**:heavy_check_mark: 여기서 참고하면 좋은 자료 : [Git Commit Message Convention](https://github.com/8-seconds/WIKI_FOR_8_SECONDS/blob/main/GitHub/CommitMessageConvention.md)**
-
-<br>
-
 ### 5. Push하는 방법 :grapes:
 
 **4번**에서 Commit 메시지를 작성한 후, 왼쪽 아래 Commit to main을 누르면, Push 버튼이 상단 버튼에 활성화 되는데 이것을 누르면 현재 **Branch**의 푸시가 완료되고, GitHub 사이트의 Repository에 파일들이 올라간 모습을 볼 수 있습니다.
 
-![img_push_way](/Image/img_push_way.png)
+![img_push_way](https://github.com/8-seconds/WIKI_FOR_8_SECONDS/raw/main/Image/img_push_way.png)
 
 <br>
 
