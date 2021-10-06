@@ -1,6 +1,11 @@
 # :sunny:29th-Android-Open-Source
 **🌱29기 WE SOPT 안드로이드 파트 오픈소스 레포지토리입니다.**
 
+## 🏆 올라온 오픈 소스목록 🏆
+### GitHub
+- [다양한 문제로 Git 공부하기](https://github.com/29th-WE-SOPT-Android-Part/29th-Android-Open-Source/blob/main/Git/Learn-Git-with-various-problems.md) - 박진수 작성
+- [왕초보들을 위한 GitHub Desktop 사용법](https://github.com/29th-WE-SOPT-Android-Part/29th-Android-Open-Source/blob/main/Git/HowtouseGithubDesktop.md) - 문다빈 작성
+
 <br>
 
 ## 0. 무엇을 올려야 하나요?
